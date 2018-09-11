@@ -2,12 +2,10 @@
 
 The picture：
 
-<img src="https://raw.githubusercontent.com/fanrunqi/MaterialLogin/master/screenshots/b.png" width = "384" height = "702"  />
-<img src="https://raw.githubusercontent.com/fanrunqi/MaterialLogin/master/screenshots/c.png" width = "384" height = "702"  />
 
 The Animation effect：
 
-<img src="https://raw.githubusercontent.com/fanrunqi/MaterialLogin/master/screenshots/this.gif" width = "363" height = "640"  />
+
 
 
 > You can download the source code. Problems can give me a message, thank you!
